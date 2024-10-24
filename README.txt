@@ -9,4 +9,4 @@ Files Included
 task1.py: Predicts restaurant ratings using machine learning.
 task2.py: Recommends restaurants based on user preferences.
 task4.py: Performs geographical analysis of restaurant locations.
-datasets.csv: Contains restaurant data used for all tasks.
+dataset.csv: Contains restaurant data used for all tasks.
